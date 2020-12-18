@@ -1,7 +1,11 @@
 ### Article 1 : abundance-richness relationships
 
-setwd("C:/Users/bernarm2/Dropbox/Work/doc boulot/post doc Lincoln/R/")
-setwd("~/Dropbox/Work/doc boulot/post doc Lincoln/R")
+# ! This repository is for information on methods, but analyses cannot Rbe directly reproduced as the raw data could not be shared directly. 
+# Raw data accessible on request: https://nvs.landcareresearch.co.nz/Data/DatasetDetails/2424/13248
+# The R project working directory should include two folders: "raw data" & "script", 
+# with the script folder corresponding to this github repository.
+
+
 
 library(doBy)
 library(vegan)
